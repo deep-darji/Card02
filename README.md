@@ -1,3 +1,3 @@
 # Card02
 
-https://dipdarji.github.io/Card02/
+https://deep-darji.github.io/Card02/
